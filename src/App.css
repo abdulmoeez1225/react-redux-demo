@@ -1,5 +1,13 @@
+body {
+  background-color: skyblue !important;
+}
+
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .App-logo {
